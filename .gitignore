@@ -1,0 +1,18 @@
+# Mac File System
+.DS_Store
+xcuserdata
+
+# Kotlin
+.kotlin/
+
+# Gradle
+.gradle/
+/build/
+/local.properties
+
+
+# IntelliJ/Android Studio
+*.iml
+captures
+.cxx
+.externalNativeBuild
